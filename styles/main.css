@@ -1,0 +1,23 @@
+.classone {
+    color: green;
+    border: 1px;
+}
+
+
+.basic-info {
+    font-size: 16pt;
+    color: blue;
+    border: green;
+}
+
+
+
+img {
+    border: 3px solid darkcyan;
+    padding: 1ch;
+
+}
+
+h2, h3, h4 {
+    color: black;
+}
